@@ -5,7 +5,8 @@ void main()
   int i;
   do
   {
-    printf("What is your Name? ");
+    printf("What is B1 Name? ");
+    printf("Change by B2");
     scanf("%s", Name);
     do
     {
